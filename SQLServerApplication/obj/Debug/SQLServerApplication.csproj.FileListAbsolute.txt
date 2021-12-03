@@ -1,0 +1,7 @@
+C:\SQL\SQLServerApplication\obj\Debug\SQLServerApplication.csproj.AssemblyReference.cache
+C:\SQL\SQLServerApplication\obj\Debug\SQLServerApplication.csproj.CoreCompileInputs.cache
+C:\SQL\SQLServerApplication\bin\Debug\SQLServerApplication.exe.config
+C:\SQL\SQLServerApplication\bin\Debug\SQLServerApplication.exe
+C:\SQL\SQLServerApplication\bin\Debug\SQLServerApplication.pdb
+C:\SQL\SQLServerApplication\obj\Debug\SQLServerApplication.exe
+C:\SQL\SQLServerApplication\obj\Debug\SQLServerApplication.pdb
