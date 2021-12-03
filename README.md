@@ -1,6 +1,6 @@
 # Enhancement_Three
 
-Although this repository is named "Enhancement Three", it is a new database project that wasn't derived from earlier course work at SNHU. The project uses C# and the Microsoft SQL Server Management Suite v18.10. The code that resides in this repository is the client side C# code. It's primary purpose is to create an SQL database, a database table, and populate the database table. This is only accomplished after the user is authenticated using secure authentication. The following steps are required to use this software.
+Although this repository is named "Enhancement Three", it is a new database project that wasn't derived from earlier course work at SNHU. The project uses the C# programming language and the Microsoft SQL Server Management Suite v18.10. The code that resides in this repository is the client side C# code. It's primary purpose is to create an SQL database, a database table, and populate the database table. This is only accomplished after the user is authenticated using secure authentication. The following steps are required to use this software.
 
 
 1. Download and install the Microsoft SQL Server Management Suite v18.10 software (SSMS).
